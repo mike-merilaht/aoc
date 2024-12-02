@@ -1,6 +1,6 @@
 // Day 1: Historian Hysteria
 
-package main
+package day01
 
 import (
  "io/ioutil"
