@@ -1,6 +1,6 @@
 // Day 2: Red-Nosed Reports 
 
-package main
+package day02
 
 import (
  "io/ioutil"
